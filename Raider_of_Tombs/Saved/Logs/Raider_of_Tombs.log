@@ -1643,3 +1643,138 @@ Scale3D: 1.000000 1.000000 1.000000
 [2021.04.26-08.55.53:355][  3]SourceControl:  create mode 100644 Raider_of_Tombs/Content/MenuAssets/Finish/FinshedBoxBP.uasset
 [2021.04.26-08.55.53:355][  3]SourceControl:  rewrite Raider_of_Tombs/Content/ThirdPersonBP/Maps/Level.umap (64%)
 [2021.04.26-08.55.53:359][  3]SourceControl: Commited [main bed8e30] added vines and finish screen.
+[2021.04.26-08.58.21:426][884]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.04.26-08.58.38:721][ 27]LogEditorTransaction: Undo Edit Inner Cone Angle
+[2021.04.26-08.58.38:743][ 27]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_16:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0) Component already registered.
+[2021.04.26-08.58.38:746][ 27]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/Level.Level:PersistentLevel.ThirdPersonCharacter_167.CharacterMesh0) Component already registered.
+[2021.04.26-08.58.47:304][542]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.26-08.58.47:377][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.04.26-08.58.47:871][559]LogSavePackage: Moving '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Saved/ThirdPersonCharacter620A734540789669A55E0C8C6CCEE490.tmp' to '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.04.26-08.58.47:884][559]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.04.26-08.58.47:884][559]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.04.26-08.58.49:361][662]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.26-08.58.49:378][662]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.26-08.58.49:378][662]PIE: New page: PIE session: Level (26 Apr 2021, 10:58:49)
+[2021.04.26-08.58.49:400][662]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level
+[2021.04.26-08.58.49:451][662]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050585s)
+[2021.04.26-08.58.49:451][662]LogAIModule: Creating AISystem for world Level
+[2021.04.26-08.58.49:451][662]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000261DCC28600), frame # 169662
+[2021.04.26-08.58.49:451][662]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000261DC8547C0), frame # 169662
+[2021.04.26-08.58.49:452][662]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2021.04.26-08.58.49:452][662]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level.Level to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level.Level (0.051820s)
+[2021.04.26-08.58.49:473][662]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.04.26-08.58.49:474][662]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.26-08.58.49:474][662]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.26-08.58.49:474][662]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.26-08.58.49:474][662]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.26-08.58.49:474][662]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.26-08.58.49:474][662]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.26-08.58.49:474][662]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.26-08.58.49:474][662]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.26-08.58.49:474][662]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.26-08.58.49:474][662]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.26-08.58.49:475][662]LogAudioMixer: Display: Using Audio Device Unknown
+[2021.04.26-08.58.49:476][662]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.26-08.58.49:476][662]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.26-08.58.49:476][662]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.26-08.58.49:476][662]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.26-08.58.49:477][662]LogInit: FAudioDevice initialized.
+[2021.04.26-08.58.49:486][662]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.26-08.58.49:497][662]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2021.04.26-09.58.49
+[2021.04.26-08.58.49:497][662]LogWorld: Bringing up level for play took: 0.011138
+[2021.04.26-08.58.49:498][662]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2021.04.26-08.58.49:500][662]PIE: Server logged in
+[2021.04.26-08.58.49:501][662]PIE: Play in editor total start time 0.127 seconds.
+[2021.04.26-08.58.54:398][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.26-08.58.54:398][219]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level
+[2021.04.26-08.58.54:400][219]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.26-08.58.54:406][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.26-08.58.54:420][219]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.26-08.58.54:427][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.26-08.58.54:470][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.26-08.58.54:474][219]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000261DC8547C0), frame # 170219
+[2021.04.26-08.58.54:475][219]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000261DCC28600), frame # 170219
+[2021.04.26-08.58.54:476][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.04.26-08.58.54:503][220]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.04.26-08.59.02:125][993]LogSavePackage: Moving '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Saved/ThirdPersonCharacter95B9191742383C7F5AB64E91346DFC70.tmp' to '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.04.26-08.59.02:135][993]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.04.26-08.59.02:135][993]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.04.26-08.59.02:802][ 52]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.26-08.59.02:857][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.04.26-08.59.03:309][ 78]LogSavePackage: Moving '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Saved/ThirdPersonCharacter91DA3E5345E7E6D50AD8C99BB6B02D2F.tmp' to '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.04.26-08.59.03:318][ 78]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.04.26-08.59.03:318][ 78]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.04.26-08.59.03:835][123]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.26-08.59.03:849][123]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.26-08.59.03:849][123]PIE: New page: PIE session: Level (26 Apr 2021, 10:59:03)
+[2021.04.26-08.59.03:849][123]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level
+[2021.04.26-08.59.03:895][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045437s)
+[2021.04.26-08.59.03:895][123]LogAIModule: Creating AISystem for world Level
+[2021.04.26-08.59.03:895][123]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000261C52DE600), frame # 171123
+[2021.04.26-08.59.03:895][123]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000260BECD4A40), frame # 171123
+[2021.04.26-08.59.03:896][123]LogPlayLevel: PIE: World Init took: (0.001078s)
+[2021.04.26-08.59.03:896][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level.Level to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level.Level (0.046658s)
+[2021.04.26-08.59.03:918][123]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.04.26-08.59.03:919][123]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.26-08.59.03:919][123]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.26-08.59.03:919][123]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.26-08.59.03:919][123]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.26-08.59.03:919][123]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.26-08.59.03:919][123]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.26-08.59.03:919][123]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.26-08.59.03:919][123]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.26-08.59.03:919][123]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.26-08.59.03:919][123]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.26-08.59.03:920][123]LogAudioMixer: Display: Using Audio Device Unknown
+[2021.04.26-08.59.03:920][123]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.26-08.59.03:920][123]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.26-08.59.03:920][123]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.26-08.59.03:921][123]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.26-08.59.03:922][123]LogInit: FAudioDevice initialized.
+[2021.04.26-08.59.03:942][123]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.26-08.59.03:954][123]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2021.04.26-09.59.03
+[2021.04.26-08.59.03:954][123]LogWorld: Bringing up level for play took: 0.011294
+[2021.04.26-08.59.03:954][123]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.04.26-08.59.03:957][123]PIE: Server logged in
+[2021.04.26-08.59.03:958][123]PIE: Play in editor total start time 0.111 seconds.
+[2021.04.26-08.59.15:860][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.26-08.59.15:860][471]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level
+[2021.04.26-08.59.15:862][471]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.26-08.59.15:868][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.26-08.59.15:880][471]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.26-08.59.15:886][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.26-08.59.15:935][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.26-08.59.15:951][471]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000260BECD4A40), frame # 172471
+[2021.04.26-08.59.15:951][471]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000261C52DE600), frame # 172471
+[2021.04.26-08.59.15:958][471]LogUObjectHash: Compacting FUObjectHashTables data took   7.22ms
+[2021.04.26-08.59.15:999][472]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.04.26-08.59.16:835][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.04.26-08.59.17:140][548]LogSavePackage: Moving '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Saved/Level5D01B92E43D7C9F4EE9BBD8B3261A1D0.tmp' to '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Content/ThirdPersonBP/Maps/Level.umap'
+[2021.04.26-08.59.17:172][548]AssetCheck: New page: Asset Save: Level
+[2021.04.26-08.59.17:172][548]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level.Level
+[2021.04.26-08.59.17:379][556]LogSavePackage: Moving '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Saved/ThirdPersonCharacterFD6695C14882840FFD33C0AECD5164C1.tmp' to '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.04.26-08.59.17:389][556]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.04.26-08.59.17:390][556]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.04.26-08.59.19:428][744]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content' is outside repository at 'C:/Users/bc05255995/Documents/GitHub/Raider_of_Tombs'
+[2021.04.26-08.59.19:428][744]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/bc05255995/Documents/GitHub/Raider_of_Tombs'
+[2021.04.26-08.59.19:428][744]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/bc05255995/Documents/GitHub/Raider_of_Tombs'
+[2021.04.26-08.59.19:428][744]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/bc05255995/Documents/GitHub/Raider_of_Tombs'
+[2021.04.26-08.59.19:428][744]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/bc05255995/Documents/GitHub/Raider_of_Tombs'
+[2021.04.26-08.59.19:428][744]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/bc05255995/Documents/GitHub/Raider_of_Tombs'
+[2021.04.26-08.59.19:428][744]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/bc05255995/Documents/GitHub/Raider_of_Tombs'
+[2021.04.26-08.59.19:428][744]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/bc05255995/Documents/GitHub/Raider_of_Tombs'
+[2021.04.26-08.59.19:428][744]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/bc05255995/Documents/GitHub/Raider_of_Tombs'
+[2021.04.26-08.59.19:428][744]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/bc05255995/Documents/GitHub/Raider_of_Tombs'
+[2021.04.26-08.59.19:428][744]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/bc05255995/Documents/GitHub/Raider_of_Tombs'
+[2021.04.26-08.59.19:428][744]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/bc05255995/Documents/GitHub/Raider_of_Tombs'
+[2021.04.26-08.59.19:428][744]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/bc05255995/Documents/GitHub/Raider_of_Tombs'
+[2021.04.26-08.59.19:428][744]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/bc05255995/Documents/GitHub/Raider_of_Tombs'
+[2021.04.26-08.59.19:428][744]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'C:/Users/bc05255995/Documents/GitHub/Raider_of_Tombs'
+[2021.04.26-08.59.19:428][744]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/bc05255995/Documents/GitHub/Raider_of_Tombs'
+[2021.04.26-08.59.19:428][744]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/bc05255995/Documents/GitHub/Raider_of_Tombs'
+[2021.04.26-08.59.19:428][744]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/bc05255995/Documents/GitHub/Raider_of_Tombs'
+[2021.04.26-08.59.32:394][744]LogSlate: Window 'Submit Files' being destroyed
+[2021.04.26-08.59.32:708][744]LogSourceControl: commit successful: [main 6f00a2f] made the torch light outer radius bigger
+[2021.04.26-08.59.32:797][744]SourceControl: [main 6f00a2f] made the torch light outer radius bigger
+[2021.04.26-08.59.32:797][744]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2021.04.26-08.59.32:802][744]SourceControl: Commited [main 6f00a2f] made the torch light outer radius bigger.
