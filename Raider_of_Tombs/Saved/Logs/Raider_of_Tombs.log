@@ -1376,3 +1376,398 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.28-12.49.51:477][445]SourceControl:  create mode 100644 Raider_of_Tombs/Content/Sounds/pickupkey.uasset
 [2021.04.28-12.49.51:477][445]SourceControl:  rewrite Raider_of_Tombs/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset (68%)
 [2021.04.28-12.49.51:480][445]SourceControl: Commited [main 5f869b5] added all my sounds.
+[2021.04.28-12.50.43:393][229]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.28-12.50.51:092][966]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.28-12.52.07:289][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.04.28-12.52.07:612][604]LogSavePackage: Moving '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Saved/LevelA0027CF24A521A5AFD77459B1DC768C0.tmp' to '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Content/ThirdPersonBP/Maps/Level.umap'
+[2021.04.28-12.52.08:122][604]LogSavePackage: Moving '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Saved/Level_BuiltData49C22A7F44257A8606074CA0E750345D.tmp' to '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Content/ThirdPersonBP/Maps/Level_BuiltData.uasset'
+[2021.04.28-12.52.08:136][604]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.28-12.52.08:136][604]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level.Level
+[2021.04.28-12.52.08:136][604]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level_BuiltData.Level_BuiltData
+[2021.04.28-12.55.42:105][844]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume32)
+[2021.04.28-12.55.42:860][896]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (QuarterFloorTIle24)
+[2021.04.28-12.55.43:798][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SquareFloorTile2)
+[2021.04.28-12.55.56:701][957]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.04.28-12.55.57:029][957]LogSavePackage: Moving '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Saved/LevelC33A71424943BDB0CE295FA2F9B5D9DF.tmp' to '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Content/ThirdPersonBP/Maps/Level.umap'
+[2021.04.28-12.55.57:558][957]LogSavePackage: Moving '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Saved/Level_BuiltData131E50494A27CE6AFFE21ABDCD7888E7.tmp' to '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Content/ThirdPersonBP/Maps/Level_BuiltData.uasset'
+[2021.04.28-12.55.57:573][957]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.28-12.55.57:573][957]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level.Level
+[2021.04.28-12.55.57:573][957]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level_BuiltData.Level_BuiltData
+[2021.04.28-12.56.06:108][757]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.28-12.56.34:189][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.04.28-12.56.34:511][206]LogSavePackage: Moving '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Saved/LevelBC51AADC4DD4EDD2D0618B844923949F.tmp' to '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Content/ThirdPersonBP/Maps/Level.umap'
+[2021.04.28-12.56.35:006][206]LogSavePackage: Moving '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Saved/Level_BuiltData699C510346FC3CC42681199F2867C0D0.tmp' to '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Content/ThirdPersonBP/Maps/Level_BuiltData.uasset'
+[2021.04.28-12.56.35:019][206]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.28-12.56.35:019][206]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level.Level
+[2021.04.28-12.56.35:019][206]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level_BuiltData.Level_BuiltData
+[2021.04.28-12.56.38:494][565]BlueprintLog: New page: Compile puzzle
+[2021.04.28-12.56.38:542][565]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.04.28-12.56.39:194][625]LogSavePackage: Moving '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Saved/puzzle152C1A954F24CB3EF9D7A3AED6E761F4.tmp' to '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Content/EnvironmentAssets/DoorPuzzleAssets/puzzle.uasset'
+[2021.04.28-12.56.39:204][625]AssetCheck: New page: Asset Save: puzzle
+[2021.04.28-12.56.39:204][625]LogContentValidation: Display: Validating Blueprint /Game/EnvironmentAssets/DoorPuzzleAssets/puzzle.puzzle
+[2021.04.28-12.57.03:866][530]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.04.28-12.57.03:866][530]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-12.57.03:866][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-12.57.10:789][ 92]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.28-12.57.19:514][895]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.28-12.57.29:462][808]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.28-12.57.41:248][888]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.28-12.57.51:796][855]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.28-12.57.56:965][320]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.28-12.58.16:402][835]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/TitleScreen.TitleScreen
+[2021.04.28-12.58.16:445][835]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.04.28-12.58.17:526][835]LogSlate: Window 'Save Content' being destroyed
+[2021.04.28-12.58.17:669][835]LogSavePackage: Moving '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Saved/puzzle8136362F4E27D8F45114B4896EB58592.tmp' to '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Content/EnvironmentAssets/DoorPuzzleAssets/puzzle.uasset'
+[2021.04.28-12.58.17:709][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.04.28-12.58.18:042][835]LogSavePackage: Moving '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Saved/LevelFA4685514C8C726F28E0389E661D42EE.tmp' to '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Content/ThirdPersonBP/Maps/Level.umap'
+[2021.04.28-12.58.18:065][835]LogFileHelpers: Saving map 'Level' took 0.395
+[2021.04.28-12.58.18:493][835]LogSavePackage: Moving '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Saved/Level_BuiltData72CD5AD440EE58DD03B042BE56DA7DF2.tmp' to '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Content/ThirdPersonBP/Maps/Level_BuiltData.uasset'
+[2021.04.28-12.58.18:497][835]Cmd: MAP LOAD FILE="../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Content/Maps/TitleScreen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.28-12.58.18:497][835]LightingResults: New page: Lighting Build
+[2021.04.28-12.58.18:497][835]LoadErrors: New page: Loading map: TitleScreen.umap
+[2021.04.28-12.58.18:532][835]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-12.58.18:533][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-12.58.18:533][835]MapCheck: New page: Map Check
+[2021.04.28-12.58.18:533][835]LightingResults: New page: Lighting Build
+[2021.04.28-12.58.18:553][835]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E8338BC2C0), frame # 158835
+[2021.04.28-12.58.18:553][835]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E88B0D2800), frame # 158835
+[2021.04.28-12.58.18:555][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.04.28-12.58.18:619][835]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.28-12.58.18:619][835]LogAIModule: Creating AISystem for world TitleScreen
+[2021.04.28-12.58.18:619][835]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E8BC844600), frame # 158835
+[2021.04.28-12.58.18:619][835]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E90F938680), frame # 158835
+[2021.04.28-12.58.18:636][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.04.28-12.58.18:656][835]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.28-12.58.18:656][835]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.058ms to complete.
+[2021.04.28-12.58.18:656][835]LogFileHelpers: Loading map 'TitleScreen' took 0.159
+[2021.04.28-12.58.18:699][835]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.28-12.58.18:699][835]LogContentValidation: Display: Validating Blueprint /Game/EnvironmentAssets/DoorPuzzleAssets/puzzle.puzzle
+[2021.04.28-12.58.18:699][835]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level.Level
+[2021.04.28-12.58.18:794][835]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level_BuiltData.Level_BuiltData
+[2021.04.28-12.58.19:524][920]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.28-12.58.19:538][920]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-12.58.19:539][920]PIE: New page: PIE session: TitleScreen (28 Apr 2021, 14:58:19)
+[2021.04.28-12.58.19:539][920]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TitleScreen
+[2021.04.28-12.58.19:541][920]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002650s)
+[2021.04.28-12.58.19:542][920]LogAIModule: Creating AISystem for world TitleScreen
+[2021.04.28-12.58.19:542][920]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E92259D800), frame # 158920
+[2021.04.28-12.58.19:542][920]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E8AE1EBEC0), frame # 158920
+[2021.04.28-12.58.19:542][920]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2021.04.28-12.58.19:542][920]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TitleScreen.TitleScreen to /Game/Maps/UEDPIE_0_TitleScreen.TitleScreen (0.003573s)
+[2021.04.28-12.58.19:561][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.04.28-12.58.19:564][920]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-12.58.19:564][920]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-12.58.19:564][920]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-12.58.19:564][920]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-12.58.19:564][920]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-12.58.19:564][920]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-12.58.19:564][920]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-12.58.19:564][920]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-12.58.19:564][920]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-12.58.19:564][920]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-12.58.19:565][920]LogAudioMixer: Display: Using Audio Device Unknown
+[2021.04.28-12.58.19:565][920]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-12.58.19:565][920]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-12.58.19:565][920]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-12.58.19:566][920]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-12.58.19:567][920]LogInit: FAudioDevice initialized.
+[2021.04.28-12.58.19:571][920]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.28-12.58.19:572][920]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 0) at 2021.04.28-13.58.19
+[2021.04.28-12.58.19:573][920]LogWorld: Bringing up level for play took: 0.001435
+[2021.04.28-12.58.19:573][920]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2021.04.28-12.58.19:576][920]PIE: Server logged in
+[2021.04.28-12.58.19:577][920]PIE: Play in editor total start time 0.043 seconds.
+[2021.04.28-12.58.19:581][920]LogAudio: Warning: Detected orphaned looping sound 'MenuMusic'.
+[2021.04.28-12.58.19:581][920]LogAudio: Warning: Detected orphaned looping sound 'CavesSounds'.
+[2021.04.28-12.58.21:188][112]Cmd: LevelEditor.ToggleImmersive
+[2021.04.28-12.58.25:099][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-12.58.34:879][742]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level
+[2021.04.28-12.58.34:879][742]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level
+[2021.04.28-12.58.34:879][742]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TitleScreen
+[2021.04.28-12.58.34:880][742]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-12.58.34:880][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-12.58.34:921][742]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E8AE1EBEC0), frame # 160742
+[2021.04.28-12.58.34:921][742]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E92259D800), frame # 160742
+[2021.04.28-12.58.34:923][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.04.28-12.58.34:924][742]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level
+[2021.04.28-12.58.34:971][742]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047012s)
+[2021.04.28-12.58.34:972][742]LogAIModule: Creating AISystem for world Level
+[2021.04.28-12.58.34:972][742]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E83AC31200), frame # 160742
+[2021.04.28-12.58.34:972][742]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E83A45A840), frame # 160742
+[2021.04.28-12.58.34:972][742]LogPlayLevel: PIE: World Init took: (0.000941s)
+[2021.04.28-12.58.34:972][742]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level.Level to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level.Level (0.048132s)
+[2021.04.28-12.58.34:972][742]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.28-12.58.34:978][742]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2021.04.28-13.58.34
+[2021.04.28-12.58.34:978][742]LogWorld: Bringing up level for play took: 0.005607
+[2021.04.28-12.58.34:980][742]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.04.28-12.58.34:981][742]LogLoad: Took 0.101337 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level)
+[2021.04.28-12.58.34:983][742]LogAudio: Warning: Detected orphaned looping sound 'CavesSounds'.
+[2021.04.28-12.59.38:389][550]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level
+[2021.04.28-12.59.38:389][550]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level
+[2021.04.28-12.59.38:389][550]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level
+[2021.04.28-12.59.38:390][550]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-12.59.38:392][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-12.59.38:438][550]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E83A45A840), frame # 166550
+[2021.04.28-12.59.38:438][550]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E83AC31200), frame # 166550
+[2021.04.28-12.59.38:441][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.04.28-12.59.38:443][550]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level
+[2021.04.28-12.59.38:489][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047096s)
+[2021.04.28-12.59.38:490][550]LogAIModule: Creating AISystem for world Level
+[2021.04.28-12.59.38:490][550]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E889FECE00), frame # 166550
+[2021.04.28-12.59.38:490][550]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E835F92AC0), frame # 166550
+[2021.04.28-12.59.38:490][550]LogPlayLevel: PIE: World Init took: (0.000954s)
+[2021.04.28-12.59.38:490][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level.Level to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level.Level (0.048212s)
+[2021.04.28-12.59.38:490][550]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.28-12.59.38:496][550]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2021.04.28-13.59.38
+[2021.04.28-12.59.38:497][550]LogWorld: Bringing up level for play took: 0.005624
+[2021.04.28-12.59.38:498][550]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.04.28-12.59.38:499][550]LogLoad: Took 0.110712 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level)
+[2021.04.28-12.59.38:501][550]LogAudio: Warning: Detected orphaned looping sound 'CavesSounds'.
+[2021.04.28-13.00.25:147][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-13.00.25:148][758]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level
+[2021.04.28-13.00.25:149][758]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-13.00.25:156][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-13.00.25:184][758]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-13.00.25:188][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-13.00.25:204][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-13.00.25:222][758]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E835F92AC0), frame # 170758
+[2021.04.28-13.00.25:222][758]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E889FECE00), frame # 170758
+[2021.04.28-13.00.25:225][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.04.28-13.00.25:251][759]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.04.28-13.02.10:461][ 78]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Level.Level
+[2021.04.28-13.02.10:477][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.04.28-13.02.10:481][ 78]Cmd: MAP LOAD FILE="../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Content/ThirdPersonBP/Maps/Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.28-13.02.10:481][ 78]LightingResults: New page: Lighting Build
+[2021.04.28-13.02.10:481][ 78]LoadErrors: New page: Loading map: Level.umap
+[2021.04.28-13.02.10:509][ 78]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-13.02.10:509][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-13.02.10:509][ 78]MapCheck: New page: Map Check
+[2021.04.28-13.02.10:509][ 78]LightingResults: New page: Lighting Build
+[2021.04.28-13.02.10:525][ 78]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E90F938680), frame # 173078
+[2021.04.28-13.02.10:525][ 78]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E8BC844600), frame # 173078
+[2021.04.28-13.02.10:526][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.04.28-13.02.10:702][ 78]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.28-13.02.10:702][ 78]LogAIModule: Creating AISystem for world Level
+[2021.04.28-13.02.10:702][ 78]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E88C437000), frame # 173078
+[2021.04.28-13.02.10:702][ 78]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E8BC992840), frame # 173078
+[2021.04.28-13.02.10:724][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.04.28-13.02.10:746][ 78]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.28-13.02.10:746][ 78]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.144ms to complete.
+[2021.04.28-13.02.10:746][ 78]LogFileHelpers: Loading map 'Level' took 0.266
+[2021.04.28-13.02.13:102][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SquareFloorTile22)
+[2021.04.28-13.02.13:198][248]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.04.28-13.02.15:578][513]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFrame6)
+[2021.04.28-13.12.34:570][468]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.04.28-13.12.37:748][830]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.04.28-13.12.39:173][  0]Cmd: DELETE
+[2021.04.28-13.12.39:173][  0]Cmd: ACTOR DELETE
+[2021.04.28-13.12.39:184][  0]LogEditorActor: Deleted Actor: Emitter
+[2021.04.28-13.12.39:201][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.04.28-13.12.39:218][  0]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2021.04.28-13.12.41:320][236]Cmd: DELETE
+[2021.04.28-13.12.41:320][236]Cmd: ACTOR DELETE
+[2021.04.28-13.12.41:330][236]LogEditorActor: Deleted Actor: Emitter
+[2021.04.28-13.12.41:346][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.04.28-13.12.41:348][236]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2021.04.28-13.12.42:403][346]Cmd: DELETE
+[2021.04.28-13.12.42:403][346]Cmd: ACTOR DELETE
+[2021.04.28-13.12.42:414][346]LogEditorActor: Deleted Actor: Emitter
+[2021.04.28-13.12.42:430][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.04.28-13.12.42:431][346]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2021.04.28-13.12.49:414][  3]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/TitleScreen.TitleScreen
+[2021.04.28-13.12.49:430][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.04.28-13.12.50:822][  3]LogSlate: Window 'Save Content' being destroyed
+[2021.04.28-13.12.50:932][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.04.28-13.12.51:264][  3]LogSavePackage: Moving '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Saved/Level848806264BF596513FDCC4A73F577517.tmp' to '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Content/ThirdPersonBP/Maps/Level.umap'
+[2021.04.28-13.12.51:286][  3]LogFileHelpers: Saving map 'Level' took 0.370
+[2021.04.28-13.12.51:980][  3]LogSavePackage: Moving '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Saved/Level_BuiltData992946894E345B8AF6E53C9EE259ACB3.tmp' to '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Content/ThirdPersonBP/Maps/Level_BuiltData.uasset'
+[2021.04.28-13.12.51:983][  3]Cmd: MAP LOAD FILE="../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Content/Maps/TitleScreen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.28-13.12.51:983][  3]LightingResults: New page: Lighting Build
+[2021.04.28-13.12.51:983][  3]LoadErrors: New page: Loading map: TitleScreen.umap
+[2021.04.28-13.12.52:018][  3]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-13.12.52:019][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-13.12.52:019][  3]MapCheck: New page: Map Check
+[2021.04.28-13.12.52:019][  3]LightingResults: New page: Lighting Build
+[2021.04.28-13.12.52:040][  3]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E8BC992840), frame # 190003
+[2021.04.28-13.12.52:040][  3]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E88C437000), frame # 190003
+[2021.04.28-13.12.52:043][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.04.28-13.12.52:148][  3]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.28-13.12.52:148][  3]LogAIModule: Creating AISystem for world TitleScreen
+[2021.04.28-13.12.52:148][  3]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E9261ACE00), frame # 190003
+[2021.04.28-13.12.52:148][  3]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E800BD4E00), frame # 190003
+[2021.04.28-13.12.52:167][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.04.28-13.12.52:188][  3]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.28-13.12.52:188][  3]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.064ms to complete.
+[2021.04.28-13.12.52:188][  3]LogFileHelpers: Loading map 'TitleScreen' took 0.205
+[2021.04.28-13.12.52:274][  3]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.28-13.12.52:274][  3]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level.Level
+[2021.04.28-13.12.52:373][  3]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level_BuiltData.Level_BuiltData
+[2021.04.28-13.12.56:422][483]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.28-13.12.56:438][483]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-13.12.56:438][483]PIE: New page: PIE session: TitleScreen (28 Apr 2021, 15:12:56)
+[2021.04.28-13.12.56:438][483]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TitleScreen
+[2021.04.28-13.12.56:441][483]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002667s)
+[2021.04.28-13.12.56:442][483]LogAIModule: Creating AISystem for world TitleScreen
+[2021.04.28-13.12.56:442][483]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E8AF36B800), frame # 190483
+[2021.04.28-13.12.56:442][483]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E879B6FC40), frame # 190483
+[2021.04.28-13.12.56:442][483]LogPlayLevel: PIE: World Init took: (0.000855s)
+[2021.04.28-13.12.56:442][483]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TitleScreen.TitleScreen to /Game/Maps/UEDPIE_0_TitleScreen.TitleScreen (0.003607s)
+[2021.04.28-13.12.56:461][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.04.28-13.12.56:465][483]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-13.12.56:465][483]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-13.12.56:466][483]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-13.12.56:466][483]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-13.12.56:466][483]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-13.12.56:466][483]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-13.12.56:466][483]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-13.12.56:466][483]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-13.12.56:466][483]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-13.12.56:466][483]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-13.12.56:467][483]LogAudioMixer: Display: Using Audio Device Unknown
+[2021.04.28-13.12.56:467][483]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-13.12.56:467][483]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-13.12.56:467][483]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-13.12.56:467][483]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-13.12.56:469][483]LogInit: FAudioDevice initialized.
+[2021.04.28-13.12.56:474][483]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.28-13.12.56:476][483]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 0) at 2021.04.28-14.12.56
+[2021.04.28-13.12.56:477][483]LogWorld: Bringing up level for play took: 0.001465
+[2021.04.28-13.12.56:477][483]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.04.28-13.12.56:480][483]PIE: Server logged in
+[2021.04.28-13.12.56:481][483]PIE: Play in editor total start time 0.046 seconds.
+[2021.04.28-13.12.56:485][483]LogAudio: Warning: Detected orphaned looping sound 'MenuMusic'.
+[2021.04.28-13.12.56:485][483]LogAudio: Warning: Detected orphaned looping sound 'CavesSounds'.
+[2021.04.28-13.12.58:679][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-13.13.04:652][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-13.13.04:652][457]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TitleScreen
+[2021.04.28-13.13.04:652][457]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-13.13.04:653][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-13.13.04:672][457]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-13.13.04:680][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-13.13.04:707][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-13.13.04:726][457]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E879B6FC40), frame # 191457
+[2021.04.28-13.13.04:726][457]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E8AF36B800), frame # 191457
+[2021.04.28-13.13.04:728][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.04.28-13.13.04:748][458]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.04.28-13.13.08:730][919]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Level.Level
+[2021.04.28-13.13.08:745][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.04.28-13.13.08:747][919]Cmd: MAP LOAD FILE="../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Content/ThirdPersonBP/Maps/Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.28-13.13.08:747][919]LightingResults: New page: Lighting Build
+[2021.04.28-13.13.08:747][919]LoadErrors: New page: Loading map: Level.umap
+[2021.04.28-13.13.08:784][919]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-13.13.08:785][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-13.13.08:785][919]MapCheck: New page: Map Check
+[2021.04.28-13.13.08:785][919]LightingResults: New page: Lighting Build
+[2021.04.28-13.13.08:800][919]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E800BD4E00), frame # 191919
+[2021.04.28-13.13.08:800][919]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E9261ACE00), frame # 191919
+[2021.04.28-13.13.08:802][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.04.28-13.13.09:052][919]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.28-13.13.09:052][919]LogAIModule: Creating AISystem for world Level
+[2021.04.28-13.13.09:052][919]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E81F165000), frame # 191919
+[2021.04.28-13.13.09:052][919]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E839DF4B80), frame # 191919
+[2021.04.28-13.13.09:073][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.04.28-13.13.09:095][919]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.28-13.13.09:095][919]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.142ms to complete.
+[2021.04.28-13.13.09:095][919]LogFileHelpers: Loading map 'Level' took 0.349
+[2021.04.28-13.14.39:076][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SquareFloorTile4)
+[2021.04.28-13.17.50:695][309]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.28-13.18.00:121][ 53]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.28-13.18.12:520][154]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume17)
+[2021.04.28-13.18.12:635][156]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.04.28-13.18.14:105][290]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (QuarterFloorTIle7)
+[2021.04.28-13.18.14:422][320]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.04.28-13.18.15:553][438]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFrame6)
+[2021.04.28-13.18.19:776][920]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DoorFrame_DoorFrame_pCube10)
+[2021.04.28-13.18.20:300][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall129)
+[2021.04.28-13.18.20:614][  9]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.04.28-13.18.30:092][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SquareFloorTile22)
+[2021.04.28-13.18.33:378][455]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFrame6)
+[2021.04.28-13.18.36:993][839]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.04.28-13.18.42:363][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall26)
+[2021.04.28-13.18.42:865][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.04.28-13.18.43:201][502]LogSavePackage: Moving '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Saved/Level9728E4F0484D74010AF36CB6BB6893B5.tmp' to '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Content/ThirdPersonBP/Maps/Level.umap'
+[2021.04.28-13.18.43:967][502]LogSavePackage: Moving '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Saved/Level_BuiltDataB18809B14F2C894153BF469B0FE8139A.tmp' to '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Content/ThirdPersonBP/Maps/Level_BuiltData.uasset'
+[2021.04.28-13.18.44:022][502]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.28-13.18.44:022][502]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level.Level
+[2021.04.28-13.18.44:022][502]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level_BuiltData.Level_BuiltData
+[2021.04.28-13.18.48:179][906]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.28-13.18.48:194][906]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-13.18.48:194][906]PIE: New page: PIE session: Level (28 Apr 2021, 15:18:48)
+[2021.04.28-13.18.48:195][906]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level
+[2021.04.28-13.18.48:242][906]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047892s)
+[2021.04.28-13.18.48:242][906]LogAIModule: Creating AISystem for world Level
+[2021.04.28-13.18.48:242][906]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E88BF63200), frame # 217906
+[2021.04.28-13.18.48:242][906]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E83B355940), frame # 217906
+[2021.04.28-13.18.48:243][906]LogPlayLevel: PIE: World Init took: (0.001052s)
+[2021.04.28-13.18.48:243][906]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level.Level to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level.Level (0.049121s)
+[2021.04.28-13.18.48:259][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.04.28-13.18.48:261][906]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-13.18.48:261][906]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-13.18.48:261][906]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-13.18.48:261][906]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-13.18.48:261][906]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-13.18.48:261][906]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-13.18.48:261][906]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-13.18.48:261][906]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-13.18.48:261][906]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-13.18.48:261][906]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-13.18.48:262][906]LogAudioMixer: Display: Using Audio Device Unknown
+[2021.04.28-13.18.48:262][906]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-13.18.48:262][906]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-13.18.48:262][906]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-13.18.48:263][906]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-13.18.48:265][906]LogInit: FAudioDevice initialized.
+[2021.04.28-13.18.48:272][906]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.28-13.18.48:283][906]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2021.04.28-14.18.48
+[2021.04.28-13.18.48:283][906]LogWorld: Bringing up level for play took: 0.011104
+[2021.04.28-13.18.48:284][906]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.04.28-13.18.48:286][906]PIE: Server logged in
+[2021.04.28-13.18.48:287][906]PIE: Play in editor total start time 0.096 seconds.
+[2021.04.28-13.18.48:316][906]LogAudio: Warning: Detected orphaned looping sound 'CavesSounds'.
+[2021.04.28-13.19.16:352][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-13.19.16:353][155]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level
+[2021.04.28-13.19.16:354][155]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-13.19.16:359][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-13.19.16:369][155]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-13.19.16:374][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-13.19.16:394][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-13.19.16:407][155]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E83B355940), frame # 221155
+[2021.04.28-13.19.16:407][155]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E88BF63200), frame # 221155
+[2021.04.28-13.19.16:410][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.04.28-13.19.16:439][156]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.04.28-13.19.17:535][284]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFrame6)
+[2021.04.28-13.19.18:307][371]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFrame6)
+[2021.04.28-13.19.18:841][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFrame6)
+[2021.04.28-13.19.19:289][483]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallFrame6)
+[2021.04.28-13.19.19:804][542]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DoorFrame_DoorFrame_pCube10)
+[2021.04.28-13.19.21:880][780]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DoorFrame_DoorFrame_pCube11)
+[2021.04.28-13.24.57:906][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.04.28-13.24.58:230][981]LogSavePackage: Moving '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Saved/Level717798764DFC224EBA4B559EC5875A1F.tmp' to '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Content/ThirdPersonBP/Maps/Level.umap'
+[2021.04.28-13.24.58:745][981]LogSavePackage: Moving '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Saved/Level_BuiltData39F35F5E47DDF0EE4068E1BADD9DD8D9.tmp' to '../../../../../../Users/bc05255995/Documents/GitHub/Raider_of_Tombs/Raider_of_Tombs/Content/ThirdPersonBP/Maps/Level_BuiltData.uasset'
+[2021.04.28-13.24.58:758][981]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.28-13.24.58:758][981]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level.Level
+[2021.04.28-13.24.58:758][981]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level_BuiltData.Level_BuiltData
+[2021.04.28-13.25.01:541][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content' is outside repository at 'C:/Users/bc05255995/Documents/GitHub/Raider_of_Tombs'
+[2021.04.28-13.25.01:541][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/bc05255995/Documents/GitHub/Raider_of_Tombs'
+[2021.04.28-13.25.01:541][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/bc05255995/Documents/GitHub/Raider_of_Tombs'
+[2021.04.28-13.25.01:541][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/bc05255995/Documents/GitHub/Raider_of_Tombs'
+[2021.04.28-13.25.01:541][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/bc05255995/Documents/GitHub/Raider_of_Tombs'
+[2021.04.28-13.25.01:541][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/bc05255995/Documents/GitHub/Raider_of_Tombs'
+[2021.04.28-13.25.01:541][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/bc05255995/Documents/GitHub/Raider_of_Tombs'
+[2021.04.28-13.25.01:541][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/bc05255995/Documents/GitHub/Raider_of_Tombs'
+[2021.04.28-13.25.01:541][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/bc05255995/Documents/GitHub/Raider_of_Tombs'
+[2021.04.28-13.25.01:541][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/bc05255995/Documents/GitHub/Raider_of_Tombs'
+[2021.04.28-13.25.01:541][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/bc05255995/Documents/GitHub/Raider_of_Tombs'
+[2021.04.28-13.25.01:541][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/bc05255995/Documents/GitHub/Raider_of_Tombs'
+[2021.04.28-13.25.01:541][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/bc05255995/Documents/GitHub/Raider_of_Tombs'
+[2021.04.28-13.25.01:541][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/bc05255995/Documents/GitHub/Raider_of_Tombs'
+[2021.04.28-13.25.01:541][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'C:/Users/bc05255995/Documents/GitHub/Raider_of_Tombs'
+[2021.04.28-13.25.01:541][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/bc05255995/Documents/GitHub/Raider_of_Tombs'
+[2021.04.28-13.25.01:541][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/bc05255995/Documents/GitHub/Raider_of_Tombs'
+[2021.04.28-13.25.01:541][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/bc05255995/Documents/GitHub/Raider_of_Tombs'
+[2021.04.28-13.25.13:727][261]LogSlate: Window 'Submit Files' being destroyed
+[2021.04.28-13.25.14:072][261]LogSourceControl: commit successful: [main 4422202] fixed some of the floor and done the sounds :)
+[2021.04.28-13.25.14:160][261]SourceControl: [main 4422202] fixed some of the floor and done the sounds :)
+[2021.04.28-13.25.14:160][261]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2021.04.28-13.25.14:160][261]SourceControl:  rewrite Raider_of_Tombs/Content/ThirdPersonBP/Maps/Level.umap (63%)
+[2021.04.28-13.25.14:164][261]SourceControl: Commited [main 4422202] fixed some of the floor and done the sounds :).
